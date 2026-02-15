@@ -20,24 +20,23 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          }
-        ]
-      },
-      {
-        "id": "831c753ddd6f7b9f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "8639aa0a897b7483",
+            "id": "94d02d1058bee2bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,8 +184,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "9eb3004d155780e7",
+  "active": "94d02d1058bee2bf",
   "lastOpenFiles": [
-    "Welcome.md"
+    "GPTs.md",
+    "backward.png",
+    "Welcome.md",
+    "carbon.png",
+    "create a link.md"
   ]
 }
