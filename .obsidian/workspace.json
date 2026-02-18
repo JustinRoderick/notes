@@ -4,39 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "b96574fc17443eab",
+        "id": "e7da97f15fee4ece",
         "type": "tabs",
         "children": [
           {
-            "id": "9eb3004d155780e7",
+            "id": "f3203c860ba261e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "EFI (Extensible Firmware Interface).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "EFI (Extensible Firmware Interface)"
             }
           },
           {
-            "id": "94d02d1058bee2bf",
+            "id": "e76183ae08670c1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Flash Attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Flash Attention"
+            }
+          },
+          {
+            "id": "f1ad07c49afcdc17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softmax Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Softmax Function"
+            }
+          },
+          {
+            "id": "cb292868137330c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sigmoid Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sigmoid Function"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,12 +212,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "94d02d1058bee2bf",
+  "active": "cb292868137330c6",
   "lastOpenFiles": [
-    "GPTs.md",
+    "Softmax Function.md",
+    "Sigmoid Function.md",
+    "Flash Attention.md",
+    "EFI (Extensible Firmware Interface).md",
+    "Angular Softmax Loss.md",
+    "Argmax Function.md",
+    "Attention.md",
+    "Backpropagation.md",
+    "Batch Normalization.md",
+    "Bayes Theorem.md",
+    "Transformers.md",
+    "Bidirectional Encoder.md",
+    "Clustering.md",
+    "Computer Vision.md",
+    "Pretraining (CLIP).md",
+    "Convolutional Layer.md",
+    "Convolutional Neural Network.md",
+    "Cross Entropy Loss.md",
+    "Diffusion.md",
+    "Embedding.md",
+    "Fully-Connected Layer.md",
+    "Gradient Descent.md",
+    "Hyperparameters.md",
+    "K-Means Clustering.md",
+    "Large Language Models.md",
+    "Logistic Regression.md",
     "backward.png",
-    "Welcome.md",
-    "carbon.png",
-    "create a link.md"
+    "carbon.png"
   ]
 }

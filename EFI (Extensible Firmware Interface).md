@@ -1,0 +1,1 @@
+The mandatory, FAT32 system partition, on UEFI-based computers that stores crucial boot loaders, drivers, and utilities for OS startup.
