@@ -1,0 +1,1 @@
+Predicts a categorical output variable based on numerical or categorical input variables. Fits a sigmoid function to the data to squeeze the data to one of the classes. It essentially returns the probability that an output belongs to a certain class based on the input variables.

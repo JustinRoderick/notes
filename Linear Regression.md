@@ -1,0 +1,1 @@
+Attempts to form a linear relationship between input variables and outputs.

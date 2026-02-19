@@ -1,1 +1,7 @@
+Clustering is a unsupervised learning technique which groups unlabeled data based on patterns between the data. It looks for similarities and differences between the data and uses that to categorize the data into a number of clusters. There are different types of clustering algorithms, these being: Exclusive, Overlapping, Hierarchical, and Probabilistic.
 
+- Exclusive: Ensure that data points can only exist within a single cluster. K-Means clustering in an example if this where data points must be assigned to one of K clusters. Clusters are then adjusted by changing the location of the centroid to the average location of the data within the cluster. You want to minimize the sum of the distances from the data point and their clusters. Large K values will result in more clusters with greater detail, while a lower K can result in less detail (under-fitting)
+- Overlapping: It allows data points to belong to multiple clusters with a separate degree of membership (in fuzzy-means this is the distance from that point to all other cluster centers)
+- Hierarchical Clustering
+	- Agglomerative: Data points are isolated as separate groups initially and are merged together iteratively based on similarities.
+	- Divisive: A single cluster is made from the data and then is divided based on differences between the data.

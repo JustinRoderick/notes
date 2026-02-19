@@ -1,0 +1,5 @@
+Unsupervised Learning is any ML model is not [[Supervised Learning|supervised]], meaning that there is no truth to the data used to train the model (input data is not labeled). It does this by identifying patterns and finding correlations between input data. The most common example is [[Clustering]] which clusters data based on similarities, but other models include [[Dimensionality Reduction]] and [[Association Rules]]
+
+- Clustering is used to explore raw, unlabeled data by breaking it down into groups or clusters based on similarities or differences in the data. There are also several types of algorithms within clustering, these being Exclusive, Overlapping, Hierarchical, and Probabilistic clustering.
+- Dimensionality Reduction is used to to remove redundant features, or dimensions, in a dataset. Unneeded and redundant data can make it more challenging to visualize the data.
+- Association is a rule-based approach to reveal relationships between data in datasets. Searches for if-then associations to discover correlations and make connections between the data. Most commonly used to to create "Frequently bought together" models.

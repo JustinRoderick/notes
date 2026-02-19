@@ -1,0 +1,1 @@
+Ahead-Of-Time compilation (**AOT compilation**) is the act of compiling an higher-level programming language into an lower-level language before execution of a program, usually at build-time, to reduce the amount of work needed to be performed at run time.

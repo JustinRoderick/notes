@@ -1,0 +1,3 @@
+Unsupervised Learning technique used to reduce the number of input features, or dimensions, in data to make finding correlations easier. It works by extracting only the important features of the data and reducing the redundant ones.
+
+- Principle Component Analysis (PCA): Reduces the features to the principal components that retain most of the original info. Does this by combining potential correlated variables into a smaller set. Commonly used for data preprocessing in EDA to make more accurate predictions with other ML models. 
