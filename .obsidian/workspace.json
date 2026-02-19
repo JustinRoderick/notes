@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clustering.md",
+                "file": "Agents/OpenClaw Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clustering"
+              "title": "OpenClaw Setup"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clustering.md",
+                "file": "Agents/OpenClaw Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clustering"
+              "title": "Backlinks for OpenClaw Setup"
             }
           },
           {
@@ -255,9 +255,11 @@
   },
   "active": "844b6324ff569f3a",
   "lastOpenFiles": [
+    "Clustering.md",
+    "Agents/OpenClaw Setup.md",
+    "Agents",
     "Unsupervised Learning.md",
     "K-Nearest Neighbors.md",
-    "Clustering.md",
     "Dimensionality Reduction.md",
     "Decision Trees.md",
     "Association Rules.md",
@@ -282,7 +284,6 @@
     "Softmax Function.md",
     "Flash Attention.md",
     "EFI (Extensible Firmware Interface).md",
-    "Angular Softmax Loss.md",
     "backward.png",
     "carbon.png"
   ]
