@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3203c860ba261e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EFI (Extensible Firmware Interface).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EFI (Extensible Firmware Interface)"
-            }
-          },
-          {
             "id": "e76183ae08670c1d",
             "type": "leaf",
             "state": {
@@ -41,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softmax Function.md",
+                "file": "Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Softmax Function"
-            }
-          },
-          {
-            "id": "cb292868137330c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decision Trees.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Decision Trees"
+              "title": "Reinforcement Learning"
             }
           },
           {
@@ -92,21 +64,35 @@
             }
           },
           {
-            "id": "844b6324ff569f3a",
+            "id": "796fa35c6ea3190f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agents/OpenClaw Setup.md",
+                "file": "K-Means Clustering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenClaw Setup"
+              "title": "K-Means Clustering"
+            }
+          },
+          {
+            "id": "18e0679972ef0dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outliers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outliers"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -163,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "9ac46a25b67e3ccf",
@@ -179,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agents/OpenClaw Setup.md",
+                "file": "Outliers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +175,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OpenClaw Setup"
+              "title": "Backlinks for Outliers"
             }
           },
           {
@@ -240,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,38 +240,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "844b6324ff569f3a",
+  "active": "18e0679972ef0dff",
   "lastOpenFiles": [
     "Clustering.md",
-    "Agents/OpenClaw Setup.md",
-    "Agents",
-    "Unsupervised Learning.md",
-    "K-Nearest Neighbors.md",
+    "Outliers.md",
+    "EDA.md",
     "Dimensionality Reduction.md",
-    "Decision Trees.md",
-    "Association Rules.md",
-    "Supervised Learning.md",
-    "Support Vector Regression.md",
-    "Naive Bayes Classifier.md",
-    "Cross Validation.md",
-    "Under-Fitting.md",
-    "Over-Fitting.md",
-    "Logistic Regression.md",
     "Linear Regression.md",
-    "Polynomial Regression.md",
+    "Principal Component Analysis.md",
+    "Unsupervised Learning.md",
     "Loss Function.md",
-    "Gradient Descent.md",
+    "Resampling Methods.md",
     "Support Vector Machine.md",
-    "Data Analysis/Databricks.md",
-    "Computer Architecture/Just-In-Time Compilation.md",
-    "Computer Architecture/Ahead-Of-Time Compilation.md",
-    "Sigmoid Function.md",
+    "Support Vector Regression.md",
+    "Gradients.md",
+    "Gradient Descent.md",
+    "Mean Squared Error.md",
+    "Regressions.md",
+    "Reinforcement Learning.md",
+    "Recurrent Neural Network.md",
+    "Random Forest.md",
+    "Boosting.md",
+    "Computer Vision.md",
+    "Bagging (Bootstrap Aggregation).md",
+    "Bayes Theorem.md",
+    "Bagging and Boosting (Ensemble Methods).md",
+    "backward.png",
+    "Backpropagation.md",
+    "Attention.md",
+    "Association Rules.md",
+    "Agents",
     "Computer Architecture",
     "Data Analysis",
-    "Softmax Function.md",
-    "Flash Attention.md",
-    "EFI (Extensible Firmware Interface).md",
-    "backward.png",
     "carbon.png"
   ]
 }
