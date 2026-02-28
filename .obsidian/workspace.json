@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e76183ae08670c1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flash Attention.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flash Attention"
-            }
-          },
-          {
-            "id": "f1ad07c49afcdc17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reinforcement Learning"
-            }
-          },
-          {
-            "id": "7e52148203d19062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K-Nearest Neighbors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "K-Nearest Neighbors"
-            }
-          },
-          {
             "id": "9dd9a820c99c0807",
             "type": "leaf",
             "state": {
@@ -69,26 +27,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K-Means Clustering.md",
+                "file": "Boosting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-Means Clustering"
+              "title": "Boosting"
             }
           },
           {
-            "id": "18e0679972ef0dff",
+            "id": "ea40483b03bd106e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outliers.md",
+                "file": "Regularization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outliers"
+              "title": "Regularization"
+            }
+          },
+          {
+            "id": "7c54589b97e6d75e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resampling Methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resampling Methods"
+            }
+          },
+          {
+            "id": "a2ea7d17c4cd5ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gradient Descent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gradient Descent"
+            }
+          },
+          {
+            "id": "0333a8f30922ddf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysis/Databricks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Databricks"
             }
           }
         ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outliers.md",
+                "file": "Data Analysis/Databricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Outliers"
+              "title": "Backlinks for Databricks"
             }
           },
           {
@@ -240,35 +240,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "18e0679972ef0dff",
+  "active": "0333a8f30922ddf8",
   "lastOpenFiles": [
-    "Clustering.md",
-    "Outliers.md",
-    "EDA.md",
-    "Dimensionality Reduction.md",
-    "Linear Regression.md",
-    "Principal Component Analysis.md",
+    "Data Analysis/Databricks.md",
+    "Vector.md",
+    "Undersampling.md",
     "Unsupervised Learning.md",
-    "Loss Function.md",
-    "Resampling Methods.md",
-    "Support Vector Machine.md",
+    "Under-Fitting.md",
+    "Transformers.md",
     "Support Vector Regression.md",
-    "Gradients.md",
-    "Gradient Descent.md",
-    "Mean Squared Error.md",
-    "Regressions.md",
+    "Support Vector Machine.md",
+    "Tool Calling.md",
+    "Supervised Learning.md",
+    "Softmax Function.md",
+    "Sigmoid Function.md",
+    "Sigmoid Activation Function.md",
+    "Semantic Search.md",
+    "Retrieval-Augmented Generation (RAG).md",
+    "ResNet.md",
+    "Resampling Methods.md",
     "Reinforcement Learning.md",
-    "Recurrent Neural Network.md",
+    "Regularization.md",
     "Random Forest.md",
-    "Boosting.md",
-    "Computer Vision.md",
-    "Bagging (Bootstrap Aggregation).md",
-    "Bayes Theorem.md",
-    "Bagging and Boosting (Ensemble Methods).md",
+    "Recurrent Neural Network.md",
+    "Oversampling.md",
+    "Perceptron.md",
+    "Over-Fitting.md",
+    "Outliers.md",
+    "Neural Networks.md",
     "backward.png",
-    "Backpropagation.md",
-    "Attention.md",
-    "Association Rules.md",
     "Agents",
     "Computer Architecture",
     "Data Analysis",
