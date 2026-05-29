@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Model Context Protocol (MCP)"
             }
+          },
+          {
+            "id": "16a39beb7e81b2d5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "28e6ea831b195f05",
+  "active": "16a39beb7e81b2d5",
   "lastOpenFiles": [
     "Dimensionality Reduction.md",
     "EDA.md",
